@@ -8,8 +8,8 @@
 
 🏆 Project Expo '25 Winner &nbsp;•&nbsp; 🛡️ APCSIP-2026 Cyber Security Intern &nbsp;•&nbsp; 📍 Meerut, India
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ayushkumar418.vercel.app-A3E635?style=for-the-badge&logo=vercel&logoColor=black)](https://ayushkumar418.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-bb555b2b1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A3E635?style=for-the-badge&logo=vercel&logoColor=black)](https://ayushkumar418.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkumar418/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushkumar447332@gmail.com)
 
 </div>
@@ -37,7 +37,7 @@ I'm a final-year B.Tech CSE student working at the intersection of two worlds: *
 | 🛡️ **SecureWatch AI** | Open-source SIEM that monitors `auth.log`, `access.log` and `syslog` to detect brute force, scanning, SQLi and privilege escalation, with AI-assisted analysis and a fallback chain | Python · Flask · PostgreSQL · React · Recharts · Gemini |
 | 🔐 **Secure Kernel Boot Verification** | 🏆 *Project Expo 2025 Winner.* Chain-of-trust verification for the boot process | C · Assembly · OpenSSL · PKI |
 | 📊 **QuotaOrbit** | Offline desktop app to track AI account quotas, with a mission-control UI | Tauri 2 · Rust · SQLite · React · TypeScript · Tailwind |
-| 💍 **Second Chance Matrimony** | Trust-first matrimonial platform for divorcees and widows/widowers in India, with an admin panel and payments | Next.js 15 · NestJS · Prisma · PostgreSQL · Razorpay |
+| 💍 **[MatureSathi](https://maturesathi.com/)** | Live, trust-first matrimony platform for divorcees, widows, widowers and single parents, with verified profiles, an admin panel and payments | Next.js 15 · NestJS · Prisma · PostgreSQL · Razorpay |
 | 🛒 **VEXON** | Deployed e-commerce platform | Full-stack |
 
 👉 More experiments: [**Browse all repositories**](https://github.com/Ayushkumar418?tab=repositories)
@@ -65,6 +65,8 @@ I'm a final-year B.Tech CSE student working at the intersection of two worlds: *
 **Security, Tools & DevOps**
 <br>
 ![Skills](https://skillicons.dev/icons?i=linux,kali,docker,git,github,postman,vscode&perline=8)
+<br>
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
@@ -116,7 +118,7 @@ I'm a final-year B.Tech CSE student working at the intersection of two worlds: *
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushkumar418)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-bb555b2b1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkumar418/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-A3E635?style=for-the-badge&logo=vercel&logoColor=black)](https://ayushkumar418.vercel.app/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ayush_kumar_356)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ayaFoKUsJP/)
