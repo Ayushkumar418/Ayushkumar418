@@ -37,7 +37,6 @@ I'm a final-year B.Tech CSE student working at the intersection of two worlds: *
 | 🛡️ **SecureWatch AI** | Open-source SIEM that monitors `auth.log`, `access.log` and `syslog` to detect brute force, scanning, SQLi and privilege escalation, with AI-assisted analysis and a fallback chain | Python · Flask · PostgreSQL · React · Recharts · Gemini |
 | 🔐 **Secure Kernel Boot Verification** | 🏆 *Project Expo 2025 Winner.* Chain-of-trust verification for the boot process | C · Assembly · OpenSSL · PKI |
 | 📊 **QuotaOrbit** | Offline desktop app to track AI account quotas, with a mission-control UI | Tauri 2 · Rust · SQLite · React · TypeScript · Tailwind |
-| 💍 **[MatureSathi](https://maturesathi.com/)** | Live, trust-first matrimony platform for divorcees, widows, widowers and single parents, with verified profiles, an admin panel and payments | Next.js 15 · NestJS · Prisma · PostgreSQL · Razorpay |
 | 🛒 **VEXON** | Deployed e-commerce platform | Full-stack |
 
 👉 More experiments: [**Browse all repositories**](https://github.com/Ayushkumar418?tab=repositories)
